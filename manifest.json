@@ -1,0 +1,20 @@
+{
+  "name": "Life Compass - 生活管理",
+  "short_name": "Life Compass",
+  "description": "目標、TODO、日々の積み上げをオフラインで管理する個人用アプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f7fa",
+  "theme_color": "#f5f7fa",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
